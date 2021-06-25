@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>laser_gun.mp3</file>
+        <file>../build-gra-Desktop_Qt_6_0_2_MinGW_64_bit-Debug/Warm-Memories-Emotional-Inspiring-Piano_v2.wav</file>
+    </qresource>
+</RCC>
